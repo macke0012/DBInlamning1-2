@@ -1,0 +1,9 @@
+DROP TABLE purchases;
+DROP TABLE recipes;
+DROP TABLE products;
+DROP TABLE supplieringredients;
+DROP TABLE ingredients;
+DROP TABLE suppliers;
+DROP TABLE addresses;
+DROP TABLE postalcodes;
+DROP TABLE cities;
